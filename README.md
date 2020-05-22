@@ -5,6 +5,7 @@ Simple program to login and not be idle on JupiterEd
 # Required Prerequisites
 ```
 Chrome 83
+Windows
 ```
 
 # Download
