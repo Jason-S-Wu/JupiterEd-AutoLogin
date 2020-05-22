@@ -2,17 +2,29 @@
 
 Simple program to login and not be idle on JupiterEd
 
-### Required Prerequisites
+# Required Prerequisites
 ```
 Chrome 83
 ```
 
-### Download
+# Download
 
 You can download from [Releases](https://github.com/Jason-S-Wu/JupiterEd-AutoLogin/releases)
 
 
-### Other Prerequisites
+# Login
+This is an example for how to login
+```
+Name
+Password
+School Name
+City
+State
+```
+For State please use the ID under [Notes](#Notes)
+
+
+# Other Prerequisites
 This is only if you want to compile or run youself
 ```
 Python 3.8 or 3.7
@@ -20,7 +32,7 @@ Selenium
 ```
 
 
-### Installation
+# Installation
 If you don't want to keep typing your login info 
 
 Delete
@@ -50,7 +62,7 @@ state  = 'xx_xx'
 ```
 
 
-### Notes
+# Notes
 
 |          State          |   ID  |
 |:-----------------------:|:-----:|
