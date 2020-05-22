@@ -2,17 +2,22 @@
 
 Simple program to login and not be idle on JupiterEd
 
+### Required Prerequisites
+This is only if you want to compile or run youself
+```
+Chrome 83
+```
+
 ### Download
 
 You can download from [Releases](https://github.com/Jason-S-Wu/JupiterEd-AutoLogin/releases)
 
 
-### Prerequisites
+### Other Prerequisites
 This is only if you want to compile or run youself
 ```
 Python 3.8 or 3.7
 Selenium
-Chrome 83
 ```
 
 
