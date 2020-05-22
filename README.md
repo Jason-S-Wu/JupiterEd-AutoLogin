@@ -2,14 +2,49 @@
 
 Simple program to login and not be idle on JupiterEd
 
+### Download
+
+You can download from [Releases](https://github.com/Jason-S-Wu/JupiterEd-AutoLogin/releases)
+
 
 ### Prerequisites
-
+This is only if you want to compile or run youself
 ```
-Python 3.8
+Python 3.8 or 3.7
 Selenium
 Chrome 83
 ```
+
+
+### Installation
+If you don't want to keep typing your login info 
+
+Delete
+```python
+#login
+name = input("Name or ID: ")
+type(name)
+password = input("Password: ")
+type(password)
+school = input("School: ")
+type(school)
+city = input("City: ")
+type(city)
+state = input("State: ")
+type(state)
+```
+
+Then edit (remove ```#``` from .py file)
+
+```
+#constant
+name = 'Name or ID'
+password = 'password'
+school = 'School'
+city = 'city'
+state  = 'xx_xx'
+```
+
 
 ### Notes
 
