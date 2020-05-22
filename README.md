@@ -6,7 +6,7 @@ Simple program to login and not be idle on JupiterEd
 ### Prerequisites
 
 ```
-Python
+Python 3.8
 Selenium
 ```
 
