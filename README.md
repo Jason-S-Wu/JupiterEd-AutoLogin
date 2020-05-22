@@ -38,9 +38,9 @@ state = input("State: ")
 type(state)
 ```
 
-Then edit (remove ```#``` from .py file)
+Then edit
 
-```
+```python
 #constant
 name = 'Name or ID'
 password = 'password'
