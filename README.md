@@ -8,6 +8,7 @@ Simple program to login and not be idle on JupiterEd
 ```
 Python 3.8
 Selenium
+Chrome 83
 ```
 
 ### Notes
