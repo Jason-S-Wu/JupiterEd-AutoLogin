@@ -3,7 +3,6 @@
 Simple program to login and not be idle on JupiterEd
 
 ### Required Prerequisites
-This is only if you want to compile or run youself
 ```
 Chrome 83
 ```
