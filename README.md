@@ -40,15 +40,10 @@ Delete
 ```python
 #login
 name = input("Name or ID: ")
-type(name)
 password = input("Password: ")
-type(password)
 school = input("School: ")
-type(school)
 city = input("City: ")
-type(city)
 state = input("State: ")
-type(state)
 ```
 
 Then edit
