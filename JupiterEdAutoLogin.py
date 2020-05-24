@@ -4,15 +4,10 @@ from selenium import webdriver
 
 #login
 name = input("Name or ID: ")
-type(name)
 password = input("Password: ")
-type(password)
 school = input("School: ")
-type(school)
 city = input("City: ")
-type(city)
 state = input("State: ")
-type(state)
 
 #constant
 #name = 'Name or ID'
