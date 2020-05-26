@@ -45,7 +45,7 @@ def loop():
         driver.find_element_by_xpath("/html/body/form/div[5]/div/div[4]").click()
         time.sleep(60)
         driver.find_element_by_xpath("/html/body/form/div[5]/div/div[13]").click()
-        time.sleep(5)
+        time.sleep(10)
         driver.find_element_by_xpath("/html/body/form/div[5]/div/div/div[3]/div[2]/div/div[2]").send_keys(name)
         driver.find_element_by_xpath("/html/body/form/div[5]/div/div/div[3]/div[3]/div[2]/input").send_keys(password)
         driver.find_element_by_xpath("/html/body/form/div[5]/div/div/div[4]/div[3]/div").click()
